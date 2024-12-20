@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yawwpmvn0-go-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/yawwpmvn0-go-gitops
